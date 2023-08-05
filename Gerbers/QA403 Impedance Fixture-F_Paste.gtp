@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,7.0.1*%
-%TF.CreationDate,2023-07-22T01:41:38+01:00*%
+%TF.CreationDate,2023-08-03T02:37:16+01:00*%
 %TF.ProjectId,QA403 Impedance Fixture,51413430-3320-4496-9d70-6564616e6365,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Paste,Top*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.1) date 2023-07-22 01:41:38*
+G04 Created by KiCad (PCBNEW 7.0.1) date 2023-08-03 02:37:16*
 %MOMM*%
 %LPD*%
 G01*
@@ -35,8 +35,8 @@ G04 Aperture macros list end*
 G04 APERTURE END LIST*
 D10*
 %TO.C,R3*%
-X111252000Y-56896000D03*
-X113252000Y-56896000D03*
+X111252000Y-57912000D03*
+X113252000Y-57912000D03*
 %TD*%
 D11*
 %TO.C,R1*%
@@ -45,7 +45,7 @@ X114652000Y-49896000D03*
 %TD*%
 D12*
 %TO.C,R2*%
-X110702000Y-53896000D03*
-X113802000Y-53896000D03*
+X110702000Y-54356000D03*
+X113802000Y-54356000D03*
 %TD*%
 M02*
